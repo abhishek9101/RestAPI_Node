@@ -13,7 +13,7 @@ https://restapi-node-8pn6.onrender.com/api/users
 
 ### Project Description:
 
-This repository contains a Node.js API project that serves as a backend for [briefly describe what your API does or supports]. It provides endpoints for [mention what functionalities or operations your API supports, e.g., user management, data retrieval, etc.].
+This repository contains a Node.js API project that serves as a backend.
 
 ### Features:
 
@@ -66,4 +66,3 @@ Include any additional information that might be relevant, such as:
 
 ---
 
-Adjust the sections and details based on your specific project and requirements. The goal is to provide enough information for someone to understand what your API does, how to use it, and how they can contribute or get involved.
